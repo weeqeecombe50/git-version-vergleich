@@ -1,3 +1,5 @@
 node_modules/
+# Distribution files
 dist/
+# Environment variable file
 .env
