@@ -1,0 +1,12 @@
+{
+  "name": "git-version-vergleich",
+  "version": "1.0.0",
+  "description": "Ein Tool zum Vergleichen von Git-Versionen für einfachere Code-Reviews.",
+  "main": "compare.js",
+  "scripts": {
+    "compare": "node compare.js"
+  },
+  "dependencies": {},
+  "author": "Dein Name",
+  "license": "MIT"
+}
